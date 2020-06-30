@@ -530,10 +530,11 @@ iframe {
 @media (max-width: 576px) {
   .wrap-login100 {
     padding: 55px 15px 37px 15px;
+Max-width:300px;
   }
   .message{
     margin:40px 0px 0px 0px;
-    max-width:500px;
+    max-width:300px;
   }
 }
 
