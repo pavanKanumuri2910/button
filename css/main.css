@@ -511,7 +511,7 @@ iframe {
 /*------------------------------------------------------------------
 [ Responsive ]*/
 
-@media (max-width: 576px) {
+@media (max-width: 1000px) {
   .wrap-login100 {
     padding: 55px 15px 37px 15px;
   }
